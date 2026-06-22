@@ -10,8 +10,6 @@ DOMAIN-SUFFIX,jdx.dev
 DOMAIN-SUFFIX,sigstore.dev
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,clawhub.ai
-# github 镜像加速地址
-DOMAIN-SUFFIX,gh-proxy.com
 # 运维工具那个网站
 DOMAIN-SUFFIX,royalapps.com
 # asdf 官网
@@ -39,8 +37,6 @@ DOMAIN-SUFFIX,infuse.im
 DOMAIN-KEYWORD,craft
 # z-library
 DOMAIN-KEYWORD,z-lib
-# api.deeplx
-DOMAIN-SUFFIX,deeplx.org
 # rsshub
 DOMAIN-KEYWORD,rsshub
 # trakt.tv
@@ -118,51 +114,35 @@ DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,dynamicwallpaper.club
 # Blog
 DOMAIN-SUFFIX,zhile.io
-# sms
-DOMAIN-SUFFIX,sms-activate.org
 # Vmware
 DOMAIN-SUFFIX,vmware.com
 # 1Password
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,pwnedpasswords.com
-# codepen
-DOMAIN-SUFFIX,codepen.io
 # reddit.com
 DOMAIN-SUFFIX,reddit.com
 # reeder
 DOMAIN-SUFFIX,bionic-reading.com
 # openwrt
 DOMAIN-SUFFIX,openwrt.org
-# agilebits
-DOMAIN-SUFFIX,agilebits.com
 # wireshark
 DOMAIN-SUFFIX,wireshark.org
-# mac 破解软件
-DOMAIN-KEYWORD,macked.app
-# lo.cafe
-DOMAIN-KEYWORD,lo.cafe
 # ubuntu
 DOMAIN-KEYWORD,ubuntu
 # 娱乐====================================
-# 影视
-DOMAIN-SUFFIX,mcoun.com
 # macrumors 壁纸网站
 DOMAIN-SUFFIX,macrumors.com
 # pockyt.io 礼品卡
 DOMAIN-SUFFIX,pockyt.io
 # 表格转换
 DOMAIN-SUFFIX,tableconvert.com
-# 新闻
-DOMAIN-SUFFIX,tophub.today
 # 合租
 DOMAIN-SUFFIX,hezu.wiki
 # mindnode 思维导图软件
 DOMAIN-SUFFIX,mindnode.com
-# clash
-DOMAIN-SUFFIX,clash.wiki
-# oaipro
-DOMAIN-SUFFIX,oaipro.com
 # openwebui 
 DOMAIN-SUFFIX,openwebui.com
 # 苹果播客
 DOMAIN-SUFFIX,podcasts.apple.com
+# 小火箭模块下载
+DOMAIN-SUFFIX,yfamilys.com
