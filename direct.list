@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,freebuf.com
 DOMAIN-SUFFIX,blackmagicdesign.com
 # CDN 加速地址
 DOMAIN-SUFFIX,cdn.jsdelivr.net
+# github 代理加速地址
+DOMAIN-SUFFIX,gh-proxy.org
