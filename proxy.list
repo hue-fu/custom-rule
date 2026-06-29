@@ -10,6 +10,8 @@ DOMAIN-SUFFIX,jdx.dev
 DOMAIN-SUFFIX,sigstore.dev
 DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,clawhub.ai
+# 官方的流程图代码渲染网站
+DOMAIN-SUFFIX,mermaid.live
 # 运维工具那个网站
 DOMAIN-SUFFIX,royalapps.com
 # asdf 官网
