@@ -4,3 +4,7 @@ DOMAIN-SUFFIX,edge.apple.com
 DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
+
+# >>> Gannett 集团流媒体与 CDN 节点（核心放行）
+DOMAIN-KEYWORD,gannett,PROXY
+DOMAIN-KEYWORD,usatoday,PROXY
