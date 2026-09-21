@@ -6,5 +6,11 @@ DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 
 # >>> Gannett 集团流媒体与 CDN 节点（核心放行）
-DOMAIN-KEYWORD,gannett,PROXY
-DOMAIN-KEYWORD,usatoday,PROXY
+DOMAIN-KEYWORD,gannett
+DOMAIN-KEYWORD,usatoday
+
+# F1 官网及 F1 TV 常用分流域名
+DOMAIN-KEYWORD,f1pro
+DOMAIN-KEYWORD,f1chromecast
+DOMAIN-KEYWORD,f1-live
+DOMAIN-KEYWORD,formula1
